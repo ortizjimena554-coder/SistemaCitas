@@ -1,0 +1,45 @@
+body{
+    background-color: #e3f2fd;
+    font-family: Arial;
+}
+
+/*TARGETA DEL LOGIN*/
+.card{
+    border-radius: 20px;
+}
+/*TITULOS*/
+h2{
+    font-weight:bold;
+}
+/*BOTON*/
+.btn-primary{
+    border-radius: 10px;
+}
+.contenedor{
+    width: 400px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+h1{
+    color: #0077b6;
+}
+
+input{
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: #0077b6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
